@@ -53,6 +53,14 @@ Grounded Answer + Sources
 | **chain.py** | Constructs RAG chain with LLM instructions |
 
 ---
+## Output
+
+### Video Output
+https://github.com/user-attachments/assets/e5323925-fbbe-4f5d-a9c0-189b574e1581
+
+### Screenshot output
+![output](assets/output.png)
+---
 
 ## 🛠️ Setup & Installation
 
